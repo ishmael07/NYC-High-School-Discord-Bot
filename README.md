@@ -1,6 +1,6 @@
 # NYC-High-School-Discord-Bot
 
-Welcome to the NYC High School Discord Bot!
+Welcome to the NYC High School Discord Bot (v1.4.0)!
 
 Invite Bot To Your Server Here!: coming soon :)
 
