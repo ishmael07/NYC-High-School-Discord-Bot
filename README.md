@@ -3,6 +3,7 @@
 Welcome to the NYC High School Discord Bot (v1.4.0)!
 
 Invite Bot To Your Server Here!: coming soon :)
+Join Main Server (for students or those interested): 
 
 This was created for the main purposes of:
 - the NYC High School Discord Server
