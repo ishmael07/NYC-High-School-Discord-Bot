@@ -1,4 +1,4 @@
-# NYC-High-School-Discord-Bot
+# NYC High School Discord Bot
 
 Welcome to the NYC High School Discord Bot (v1.4.0)!
 
